@@ -32,6 +32,7 @@ print(datalength)
 # price_model.add(Dense(64,activation = "relu",input_dim = 4)) #first hidden layer with 4 input
 # price_model.add(Dense(64,activation="relu"))#Second hidden layer
 # price_model.add(Dense(64,activation="relu"))#Third hidden layer
+#price_model.add(Dense(64,activation="relu"))#Fourth hidden layer
 # price_model.add(Dense(1))
 
 # #-----------------------------------------Compile and fit model
