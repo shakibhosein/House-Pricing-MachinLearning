@@ -1,1 +1,2 @@
 this is a file meant to explain the project
+This project is a neural network project that are defined to teach the MBA student the concept of Neural network in Machin Learning and its application in developing a predictive model.
